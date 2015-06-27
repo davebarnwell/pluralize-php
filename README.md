@@ -1,6 +1,8 @@
 pluralize
 =========
 
+[![Build Status](https://scrutinizer-ci.com/g/freshsauce/pluralize-php/badges/build.png?b=master)](https://scrutinizer-ci.com/g/freshsauce/pluralize-php/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/freshsauce/pluralize-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/freshsauce/pluralize-php/?branch=master)
+
 Pluralize word for PHP
 
 Usage:
